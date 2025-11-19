@@ -2,6 +2,7 @@
 
 Um jogo de Tetris desenvolvido em Python utilizando Pygame, criado para estudo e portfólio.
 
+![Gameplay GIF](assets/screenshots/gameplay.gif)
 ---
 
 Funcionalidades:
@@ -103,3 +104,4 @@ Sobre o autor
 
 
 Desenvolvido por Ailton, como projeto de portfólio e prática de desenvolvimento de jogos com Python.
+
