@@ -59,14 +59,14 @@ python main.py
 ---
 
 Controles:
-
+```
 Tecla	Ação
 ←		Mover peça para a esquerda
 →		Mover peça para a direita
 ↓		Acelerar queda
 ↑		Rotacionar peça
 Mouse	Interagir com botões
-
+```
 ---
 
 Screenshots:
@@ -100,5 +100,6 @@ https://creativecommons.org/licenses/by-nc/4.0/
 ---
 
 Sobre o autor
+
 
 Desenvolvido por Ailton, como projeto de portfólio e prática de desenvolvimento de jogos com Python.
